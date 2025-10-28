@@ -195,7 +195,7 @@ Please refer to the [FAQ](./FAQ.md) for more details.
 ## Deep Research Agent Family
 
 <p align="center">
-  <img width="100%" src="./assets/family.png">
+  <img width="100%" src="./assets/family17.png">
 </p>
 
 Tongyi DeepResearch also has an extensive deep research agent family. You can find more information in the following paper:
