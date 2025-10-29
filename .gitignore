@@ -1,5 +1,6 @@
 # Environment files
 .env
+.history
 
 # Python
 __pycache__/
