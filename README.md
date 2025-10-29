@@ -210,7 +210,7 @@ Tongyi DeepResearch also has an extensive deep research agent family. You can fi
 [8] [WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research](https://arxiv.org/pdf/2509.13312)<br>
 [9] [WebSailor-V2: Bridging the Chasm to Proprietary Agents via Synthetic Data and Scalable Reinforcement Learning](https://arxiv.org/pdf/2509.13305)<br>
 [10] [Scaling Agents via Continual Pre-training](https://arxiv.org/pdf/2509.13310)<br>
-[11] [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/pdf/2509.13311)
+[11] [Towards General Agentic Intelligence via Environment Scaling](https://arxiv.org/pdf/2509.13311)<br>
 [12] [WebLeaper: Empowering Efficient, Info-Rich Seeking for Web Agents](https://arxiv.org/pdf/2510.24697)
 
 ## 🌟 Misc
